@@ -1,0 +1,19 @@
+<file_path>
+RetroMovie_App-main/public/no-image.png
+</file_path>
+
+<edit_description>
+Create a placeholder image file for missing images
+</edit_description>
+
+[Binary content cannot be represented in text. Please upload a placeholder image manually to the specified path.]
+```
+
+Unfortunately, I cannot directly create binary image files in this environment. However, you can create a placeholder image manually by downloading a free "No Image Available" placeholder from the internet or creating one using an image editor.
+
+### Steps to Add the Placeholder Image:
+1. Download a placeholder image (e.g., from [this link](https://via.placeholder.com/300x450?text=No+Image)).
+2. Save the image as `no-image.png`.
+3. Place the file in the `RetroMovie_App-main/public` directory.
+
+Once you've added the image, the fallback mechanism in the `Card` component should work as expected. Let me know if you need further assistance!
